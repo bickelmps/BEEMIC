@@ -28,7 +28,7 @@ Human movement patterns are translated to machine-applicable patterns. Trained d
 
 ## Installation
 
-Copy the `beemic` folder into the `DronecodeSDK/examples` folder. Build and make:
+Copy this repository into the `DronecodeSDK/examples` folder. Build and make:
 
 ```
 mkdir build && cd build
