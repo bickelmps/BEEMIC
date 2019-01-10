@@ -58,6 +58,7 @@ Follow the trajectory with a vanilla velocity controller
 
 ## Possible Results
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/happy_drone.gif?raw=true" width="300" height="400">
+
 ------------------
 ##### MIT License
 ##### Copyright (c) 2018 Team BEEMIC, ETH Zurich
