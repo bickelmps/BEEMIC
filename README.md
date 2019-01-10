@@ -4,7 +4,7 @@
 #### Give your drone the characteristics of your choice!
 ------------------------------------------------
 ###### Team Beemic
-Bickel, V.T., Förderer, N., ...
+Förderer, N., Nomanovic, A., Schwarzer, K., Bickel, V. T.
 ###### An ETH Zurich PolyHack 2018 Project
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="250" height="60">
 
