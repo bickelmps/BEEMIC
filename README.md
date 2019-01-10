@@ -1,17 +1,17 @@
 # BEEMIC - Human-inspired drone movement control
-<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logo.PNG" width="350" height="150">
+<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logo.PNG" width="250" height="100">
 ##### Give your drone the characteristics of your choice!
 
 Team Beemic
 Bickel, V.T., Förderer, N., ...
 ###### An ETH Zurich PolyHack 2018 Project
-<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="300" height="80">
+<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="150" height="30">
 
 add LICENCE HERE - MIT
 
 ## Dependencies
 
-We use [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to extract human postures and movement patterns from multiple-view videos, using smartphone cameras.
+We use [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to extract human(-like) postures and movement patterns from multiple-view videos, using smartphone cameras.
 
 
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/openpose_hulk.gif?raw=true" width="300" height="300">
