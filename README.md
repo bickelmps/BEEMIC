@@ -2,6 +2,9 @@
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logo.PNG" width="240" height="100">
 
 #### Give your drone the characteristics of your choice!
+
+------------------------------------------------
+Produced in < 24h, WORK IN PROGRESS
 ------------------------------------------------
 ###### Team Beemic
 Förderer, N., Nomanovic, A., Schwarzer, K., Bickel, V. T.
