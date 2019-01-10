@@ -57,4 +57,4 @@ Follow the trajectory with a vanilla velocity controller
 ```
 
 ## Possible Results
-<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/happy_drone.gif?raw=true" width="300" height="600">
+<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/happy_drone.gif?raw=true" width="300" height="400">
