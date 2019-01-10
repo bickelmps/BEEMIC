@@ -5,9 +5,10 @@
 ###### Team Beemic
 Bickel, V.T., Förderer, N., ...
 ###### An ETH Zurich PolyHack 2018 Project
-<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="210" height="60">
+<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="230" height="60">
 
-add LICENCE HERE - MIT
+##### MIT License
+##### Copyright (c) 2018 Team BEEMIC, ETH Zurich
 
 ## Dependencies
 
