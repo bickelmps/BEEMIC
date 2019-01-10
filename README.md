@@ -12,7 +12,9 @@ add LICENCE HERE - MIT
 ## Dependencies
 
 We use [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to extract human postures and movement patterns from multiple-view videos, using smartphone cameras.
-HULK GIF HERE
+
+
+<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/hulk.GIF" width="350" height="150">
 
 Human movement patterns are translated to machine-applicable patterns. Trained drone behavior is simulated in [Gazebo](http://gazebosim.org/), controlling the drone through [Dronecode](https://www.dronecode.org/sdk/) with [px4](http://px4.io/) as backend.
 
