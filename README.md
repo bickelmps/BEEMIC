@@ -18,7 +18,7 @@ Förderer, N., Nomanovic, A., Schwarzer, K., Bickel, V. T.
 
 ## Dependencies
 
-We use [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to extract human(-like) postures and movement patterns from multiple-view videos, using smartphone cameras.
+We use [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to extract human(-like) postures and movement patterns from multiple-view videos, using only smartphone cameras.
 
 
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/openpose_hulk.gif?raw=true" width="300" height="300">
