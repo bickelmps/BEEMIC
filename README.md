@@ -1,11 +1,11 @@
 # BEEMIC - Human-inspired drone movement control
-<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logo.PNG" width="250" height="100">
+<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logo.PNG" width="240" height="100">
 ##### Give your drone the characteristics of your choice!
 
 Team Beemic
 Bickel, V.T., Förderer, N., ...
 ###### An ETH Zurich PolyHack 2018 Project
-<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="150" height="30">
+<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="180" height="60">
 
 add LICENCE HERE - MIT
 
