@@ -58,7 +58,7 @@ Follow the trajectory with a vanilla velocity controller
 
 ## Possible Results
 
-A happy & jumping person expressed by a drone:
+A happy & jumping/dancing person; after filming and translation expressed by the drone as:
 
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/happy_drone.gif?raw=true" width="300" height="400">
 
