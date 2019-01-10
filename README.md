@@ -1,5 +1,5 @@
 # BEEMIC - Human-inspired drone movement control
-![alt text](https://raw.githubusercontent.com/bickelmps/BEEMIC/figures/logo.png)
+![alt text](https://github.com/bickelmps/BEEMIC/blob/master/figures/logo.PNG?raw=true)
 ##### Give your drone the characteristics of your choice!
 # 
 Team Beemic
