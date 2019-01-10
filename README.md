@@ -2,10 +2,10 @@
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logo.PNG" width="240" height="100">
 ##### Give your drone the characteristics of your choice!
 
-Team Beemic
+###### Team Beemic
 Bickel, V.T., Förderer, N., ...
 ###### An ETH Zurich PolyHack 2018 Project
-<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="180" height="60">
+<img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="210" height="60">
 
 add LICENCE HERE - MIT
 
