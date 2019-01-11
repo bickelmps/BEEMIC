@@ -8,7 +8,7 @@ Produced in < 24h, WORK IN PROGRESS
 
 ------------------------------------------------
 ###### Team Beemic
-Förderer, N., Nomanovic, A., Schwarzer, K., Bickel, V. T.
+Förderer, N. [@NicolajFoerderer](https://github.com/NicolajFoerderer), Omanovic, A., Anschau Schwarzer, K. [@kevinanschau](https://github.com/kevinanschau), Bickel, V. T. [@bickelmps](https://github.com/bickelmps)
 ###### An ETH Zurich PolyHack 2018 Project
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="250" height="60">
 
