@@ -12,8 +12,7 @@ Förderer, N. [@NicolajFoerderer](https://github.com/NicolajFoerderer); Omanovic
 ###### An ETH Zurich PolyHack 2018 Project
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="250" height="60">
 
-##### MIT License
-##### Copyright (c) 2018 Team BEEMIC, ETH Zurich
+##### MIT License - Copyright (c) 2018 Team BEEMIC, ETH Zurich
 --------------------------------------------------
 
 ## Dependencies
@@ -67,5 +66,4 @@ A happy & jumping/dancing person; after filming and translation expressed by the
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/happy_drone.gif?raw=true" width="300" height="400">
 
 ------------------
-##### MIT License
-##### Copyright (c) 2018 Team BEEMIC, ETH Zurich
+##### MIT License - Copyright (c) 2018 Team BEEMIC, ETH Zurich
