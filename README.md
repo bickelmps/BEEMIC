@@ -13,6 +13,8 @@ Förderer, N. [@NicolajFoerderer](https://github.com/NicolajFoerderer); Omanovic
 <img src="https://github.com/bickelmps/BEEMIC/blob/master/figures/logopoly.png?raw=true" width="250" height="60">
 
 ##### MIT License - Copyright (c) 2018 Team BEEMIC, ETH Zurich
+Please refer to this routine as:
+#### Förderer, N.; Omanovic, A.; Anschau Schwarzer, K.; Bickel, V. T. BEEMIC - Human-inspired drone movement control. 2018.
 --------------------------------------------------
 
 ## Dependencies
